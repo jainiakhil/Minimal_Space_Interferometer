@@ -7,6 +7,14 @@ This repository contains the software implementation for simulating a minimal sp
 
 ---
 
+## 🎬 Working Demonstration
+
+<video src="docs/Project_working.mp4" autoplay loop muted playsinline controls width="100%"></video>
+
+> *Note: If your browser or platform does not support inline video playback, you can view or download the full demonstration video directly at [`docs/Project_working.mp4`](docs/Project_working.mp4).*
+
+---
+
 ## 📄 Associated Research & Documentation
 
 - **Published Journal Paper (PASA)**: [A minimal space interferometer configuration for imaging at low radio frequencies](https://doi.org/10.1017/pasa.2021.34)  
@@ -101,7 +109,8 @@ Post-processing scripts (named `test_Jan20_*_from_binary.py`) allow generating $
 ```
 github-export/
 ├── docs/
-│   └── 2014A3TS0295P.pdf                           # Project Work Report
+│   ├── 2014A3TS0295P.pdf                           # Project Work Report
+│   └── Project_working.mp4                         # Working Demonstration Video
 ├── scripts/
 │   # --- Primary Simulation Scripts (Feb 2021 Final Release) ---
 │   ├── test_Feb21_with hermitian_uniform weighting_4_satellitees_v3_no_ionosphere_updated.py
