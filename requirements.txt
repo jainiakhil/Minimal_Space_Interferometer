@@ -1,0 +1,12 @@
+# Space Interferometer Project - Python Dependencies
+# Historical Archive (2018-2021)
+
+# Core Numerical & Visualization Libraries
+numpy>=1.16.0
+matplotlib>=3.0.0
+scipy>=1.2.0
+
+# Legacy 3D Visualization & GUI Framework (Historical Context)
+# Note: Original environment relied on Python 2.7/3.x with VPython (visual package) and wxPython via VIDLE
+vpython
+wxPython
