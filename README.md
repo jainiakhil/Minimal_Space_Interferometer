@@ -9,9 +9,9 @@ This repository contains the software implementation for simulating a minimal sp
 
 ## 🎬 Working Demonstration
 
-<video src="docs/Project_working.mp4" autoplay loop muted playsinline controls width="100%"></video>
+![Working Demonstration](docs/Project_working.gif)
 
-> *Note: If your browser or platform does not support inline video playback, you can view or download the full demonstration video directly at [`docs/Project_working.mp4`](docs/Project_working.mp4).*
+> *Note: You can also view or download the full high-resolution demonstration video directly at [`docs/Project_working.mp4`](docs/Project_working.mp4).*
 
 ---
 
@@ -110,6 +110,7 @@ Post-processing scripts (named `test_Jan20_*_from_binary.py`) allow generating $
 github-export/
 ├── docs/
 │   ├── 2014A3TS0295P.pdf                           # Project Work Report
+│   ├── Project_working.gif                         # Animated Demonstration Preview
 │   └── Project_working.mp4                         # Working Demonstration Video
 ├── scripts/
 │   # --- Primary Simulation Scripts (Feb 2021 Final Release) ---
